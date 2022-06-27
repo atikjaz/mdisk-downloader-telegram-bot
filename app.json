@@ -1,7 +1,7 @@
 {
   "name": "Mdisk Downloader Telegram Bot",
    "description": "Bot to download video from mdisk links",
-  "website": "https://github.com/bipinkrish/mdisk-downloader-telegram-bot",
+  "website": "https://github.com/atikjaz/mdisk-downloader-telegram-bot",
   "keywords": ["Python", "Heroku"],
   "addons": ["heroku-postgresql:hobby-dev", "scheduler:standard"],
   "env": {
